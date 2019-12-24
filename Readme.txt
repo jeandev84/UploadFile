@@ -1,0 +1,9 @@
+- attachment
+  - 1.jpg
+  - 2.jpg
+    ...
+    ...
+    ...
+- index.php
+- resize_image.php
+- uploader.php
